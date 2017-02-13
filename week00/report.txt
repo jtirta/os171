@@ -1,2 +1,6 @@
 "#janice"
-
+mengisi form untuk pendafataran ke dalam lab os
+membuat akun google
+membuat akun github
+membuat repository os171
+masuk ke dalam server badak.cs.ui.ac.id
