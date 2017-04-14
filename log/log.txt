@@ -9,3 +9,14 @@ w00-170210-16:00-PS-doing lab00
 w01-170213-12:30-PS-doing lab01
 w01-170213-13:00-PS-doing lab01
 w01-170213-13:30-PS-doing lab01
+w01-170214-13:00-LR-listening to lecture
+w01-170214-13:30-LR-listening to lecture
+w01-170214-14:00-LR-listening to lecture
+w01-170217-14:00-LR-listening to lecture
+w01-170217-14:30-LR-listening to lecture
+w01-170217-15:00-LR-listening to lecture
+w05-170312-18:00-PS-doing lab05
+w05-170312-18:30-PS-doing lab05
+w05-170314-13:00-LR-listening to lecture
+w05-170314-13:30-LR-listening to lecture
+w05-170314-14:00-LR-listening to lecture
